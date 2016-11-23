@@ -6,7 +6,7 @@ These are Phonegap plugins that expose the same JS API as Twilio Client for web 
 #### (as of August 16, 2016)
 - Cordova 6.3.1
 - Cordova Android 5.2.1
-- Cordova iOS 4.1.0
+- Cordova iOS 3.9.2
 - Twilio Client for iOS 1.2.8
 - Twilio Client for Android 1.2.17
 - XCode 7.3
